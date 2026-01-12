@@ -52,7 +52,7 @@ const Navigation = () => {
               </a>
             ))}
             <a
-              href="/ShaharyarKhawarResume.pdf"
+              href="/ShaharyarKhawarResume2.pdf"
               target="_blank"
               className="px-4 py-2 text-sm border border-primary text-primary rounded hover:bg-primary/10 transition-colors"
             >
@@ -91,7 +91,7 @@ const Navigation = () => {
               </a>
             ))}
             <a
-              href="/ShaharyarKhawarResume.pdf"
+              href="/ShaharyarKhawarResume2.pdf"
               target="_blank"
               className="px-6 py-2 border border-primary text-primary rounded hover:bg-primary/10 transition-colors"
             >
