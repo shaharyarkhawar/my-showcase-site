@@ -33,7 +33,7 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-3xl md:text-5xl lg:text-6xl font-bold font-heading text-muted-foreground mb-8"
         >
-          I build things for the web.
+          I build scalable SaaS systems
         </motion.h2>
 
         <motion.p
@@ -42,7 +42,7 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.3 }}
           className="text-lg md:text-xl text-muted-foreground max-w-2xl mb-10 leading-relaxed"
         >
-          Lead Software Engineer with 3+ years of experience designing and implementing
+          Lead Software Engineer with 4+ years of experience designing and implementing
           innovative solutions. Specializing in building scalable systems that drive
           operational efficiency and enhance customer engagement.
         </motion.p>

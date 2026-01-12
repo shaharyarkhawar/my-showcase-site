@@ -10,33 +10,6 @@ const experiences = [
     period: "Jan 2024 - Present",
     projects: [
       {
-        name: "Inventory Management System",
-        points: [
-          "Enhanced operational efficiency by 30% through real-time inventory tracking and automated reporting systems",
-          "Mentored junior developers and conducted code reviews, fostering a high-performing development team",
-          "Designed waste tracking module reducing inventory waste by 25%",
-          "Engineered dynamic ingredient tracking system reducing stock discrepancies by 85%",
-        ],
-        tools: ["ReactJS", "PHP", "MySQL"],
-      },
-      {
-        name: "Loyalty Program",
-        points: [
-          "Developed QR code generation and scanning system for seamless customer enrollment",
-          "Implemented stamp-based reward system boosting customer retention",
-          "Created intuitive UI for customers to track loyalty points and available rewards",
-          "Integrated messaging system for automated notifications about rewards and special offers",
-        ],
-        tools: ["ReactJS", "PHP", "MySQL"],
-      },
-    ],
-  },
-  {
-    title: "Software Engineer II",
-    company: "Roomy",
-    period: "Jan 2023 - Dec 2023",
-    projects: [
-      {
         name: "Restaurant Management System",
         points: [
           "Optimized POS order taking screen resulting in 20% increase in order processing efficiency",
@@ -45,6 +18,36 @@ const experiences = [
           "Designed real-time dashboard for order monitoring and sales insights",
           "Established seamless integration with FBR service for tax compliance",
           "Integrated Foodpanda with POS eliminating double order entry",
+          "Implemented an online order system that streamlined order placement and real time processing, improving operational efficiency and order accuracy",
+          "Integrated a secure payment gateway for online orders, enabling cashless transactions and im- proving checkout efficiency",
+          "Implemented a restaurant accounting module producing real time financial reports such as Trial Balance and Profit and Loss, improving financial visibility and accuracy"
+        ],
+        tools: ["ReactJS", "PHP", "MySQL", "NodeJS", "AWS", "S3", "EC2", "RDS"],
+      },
+      {
+        name: "Inventory Management System",
+        points: [
+          "Enhanced operational efficiency by 30% through real-time inventory tracking and automated reporting systems",
+          "Mentored junior developers and conducted code reviews, fostering a high-performing development team",
+          "Designed waste tracking module reducing inventory waste by 25%",
+          "Engineered dynamic ingredient tracking system reducing stock discrepancies by 85%",
+        ],
+        tools: ["ReactJS", "PHP", "MySQL"],
+      }
+    ],
+  },
+  {
+    title: "Software Engineer II",
+    company: "Roomy",
+    period: "Jan 2023 - Dec 2023",
+    projects: [ 
+      {
+        name: "Loyalty Program",
+        points: [
+          "Developed QR code generation and scanning system for seamless customer enrollment",
+          "Implemented stamp-based reward system boosting customer retention",
+          "Created intuitive UI for customers to track loyalty points and available rewards",
+          "Integrated messaging system for automated notifications about rewards and special offers",
         ],
         tools: ["ReactJS", "PHP", "MySQL"],
       },

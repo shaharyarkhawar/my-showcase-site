@@ -13,11 +13,11 @@ const skillCategories = [
   },
   {
     title: "Databases",
-    skills: ["MySQL", "MongoDB", "DynamoDB"],
+    skills: ["MySQL", "MongoDB", "DynamoDB", "Firestore"],
   },
   {
     title: "Cloud & DevOps",
-    skills: ["AWS", "Docker", "Lambda", "CloudWatch"],
+    skills: ["AWS", "Docker", "Lambda", "CloudWatch", "S3", "EC2", "RDS"],
   },
   {
     title: "Tools & Practices",

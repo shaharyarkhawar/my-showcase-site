@@ -23,7 +23,7 @@ const About = () => {
         <div className="grid md:grid-cols-3 gap-8">
           <div className="md:col-span-2 space-y-4 text-muted-foreground leading-relaxed">
             <p>
-              I'm a Lead Software Engineer with over 3 years of experience in designing,
+              I'm a Lead Software Engineer with over 4 years of experience in designing,
               developing, and implementing innovative software solutions. I have a proven
               track record of leading cross-functional teams to deliver high-quality
               projects within tight deadlines.
@@ -54,7 +54,7 @@ const About = () => {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-primary mt-1">▹</span>
-                  3+ years of experience
+                  4+ years of experience
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-primary mt-1">▹</span>

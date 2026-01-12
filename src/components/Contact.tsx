@@ -44,7 +44,7 @@ const Contact = () => {
 
         <div className="flex items-center justify-center gap-6">
           <a
-            href="https://github.com"
+            href="https://github.com/shaharyarkhawar"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
@@ -52,7 +52,7 @@ const Contact = () => {
             <Github size={24} />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/shaharyar-khawar-4bb434213/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
